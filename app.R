@@ -7,13 +7,6 @@ library(tidyr)
 library(glue)
 library(purrr)
 
-# Import data -------------------------------------------------------------
-
-ga4_data <- read_csv(
-  "data/ga4_data.csv", 
-  col_types = list(event_date = col_date("%Y%m%d"))
-)
-
 make_summary_tile <- function(header, text_output, css_id){
   column(2,
          div(header),
@@ -28,6 +21,13 @@ tiles <- tribble(
   "Page Views"    , "page_view",
   "Session Starts", "session_start",
   "Purchases"     , "purchase"
+)
+
+# Import data -------------------------------------------------------------
+
+ga4_data <- read_csv(
+  "data/ga4_data.csv", 
+  col_types = list(event_date = col_date("%Y%m%d"))
 )
 
 # UI ----------------------------------------------------------------------
