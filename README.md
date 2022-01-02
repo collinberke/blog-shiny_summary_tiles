@@ -1,6 +1,6 @@
 # Shiny Summary Metric Tiles Example
 
-This repository contains code from a [blog post](https://www.collinberke.com/post/shiny-series-metric-summary-tiles/) overviewing the creation of [Shiny](https://shiny.rstudio.com/) summary tiles. A running example of the Shiny app utilizing summary metric tiles can be found [here](https://collin-berke.shinyapps.io/blog-shiny_summary_tiles/). 
+This repository contains code from a [blog post](https://www.collinberke.com/post/shiny-series-metric-summary-tiles/) overviewing the creation of [Shiny](https://shiny.rstudio.com/) summary metric tiles. A running example of the Shiny app utilizing summary metric tiles can be found [here](https://collin-berke.shinyapps.io/blog-shiny_summary_tiles/). 
 
 It also contains some example code utilizing the `R` [`bigrquery`](https://bigrquery.r-dbi.org/) package to export Google Analytics 4 data for the [Google Merchandise Store](https://shop.googlemerchandisestore.com/) from [BigQuery](https://cloud.google.com/bigquery). 
 
