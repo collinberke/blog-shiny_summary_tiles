@@ -10,4 +10,4 @@ The data was provided through [Google’s Public Datasets](https://cloud.google.
 
 # Bugs, issues, or improvements
 
-Please file an issue if you find any bugs. Suggestions for improvements/optimizations are always apprecitated and can be made through a pull request. 
+Please file an [issue](https://github.com/collinberke/blog-shiny_summary_tiles/issues) if you find any bugs. Suggestions for improvements/optimizations through [pull requests](https://github.com/collinberke/blog-shiny_summary_tiles/issues) are always welcome and apprecitated. 
