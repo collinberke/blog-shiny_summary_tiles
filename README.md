@@ -6,7 +6,7 @@ It also contains some example code utilizing the `R` [`bigrquery`](https://bigrq
 
 # Data 
 
-The data was provided through Google’s Public Datasets initiative, and it can be accessed and used by anyone (as long as you have a Google account). This data represents web site activity, specifically site events from 2020-11-01 to 2021-12-31. This is an obsfucated sample dataset, thus no valid conclusions about the Google Merchandise store and its usage should be made from this data or application. This example code is meant to highlight Shiny concepts and is not intended to be a valid analysis of website activity. More about the data can be found [here](https://support.google.com/analytics/answer/10937659#zippy=%2Cin-this-article).
+The data was provided through [Google’s Public Datasets](https://cloud.google.com/bigquery/public-data) initiative, and it can be accessed and used by anyone (as long as you have a Google account). This data represents web site activity, specifically site events from 2020-11-01 to 2021-12-31. This is an obsfucated sample dataset, thus no valid conclusions about the Google Merchandise store and its usage should be made from this data or application. This example code is meant to highlight Shiny concepts and is not intended to be a valid analysis of website activity. More about the data can be found [here](https://support.google.com/analytics/answer/10937659#zippy=%2Cin-this-article).
 
 # Bugs, issues, or improvements
 
